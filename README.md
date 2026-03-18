@@ -5,7 +5,7 @@
 # Abhishek Kayasth
 ### Software Developer · Gujarat, India
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=54C5F8&center=true&vCenter=true&width=600&lines=Flutter+Developer+%5B+primary+%5D;Cubit+%7C+REST+APIs+%7C+SDK+Integrations;Unity+%26+AR+on+the+side;Always+building.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=54C5F8&center=true&vCenter=true&width=600&lines=Flutter+Developer+%5B+primary+%5D;Cubit+%7C+REST+APIs+%7C+SDK+Integrations;Full+stack+on+the+side;Always+building.)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kayasth-050250239/)
 [![Profile Views](https://komarev.com/ghpvc/?username=RogueStar03&style=flat-square&color=54C5F8&label=views)](https://github.com/RogueStar03)
@@ -14,9 +14,9 @@
 
 ---
 
-Cross-platform mobile developer focused on **Flutter & Dart** — working with Cubit state management, REST API integration, file management, and SDK integrations day-to-day. Contributed to a production Flutter app professionally; personal projects incoming.
+Cross-platform mobile developer focused on **Flutter & Dart** — working with Cubit state management, REST API integration, file management, and SDK integrations day-to-day. Contributed to a production Flutter app professionally; more projects incoming.
 
-Outside Flutter: Unity game dev and AR experiments when the mood strikes. 🎮
+Outside Flutter: full-stack web and Unity game dev & AR when the mood strikes.
 
 ---
 
@@ -33,31 +33,54 @@ Outside Flutter: Unity game dev and AR experiments when the mood strikes. 🎮
 
 ---
 
-## `[ secondary: other stacks ]`
-
-**Game Dev** &nbsp;·&nbsp; Unity · C# · ShaderLab · AR/XR
-
-**Web & Full Stack** &nbsp;·&nbsp; JavaScript · HTML · CSS · Node.js
-
-**Tools** &nbsp;·&nbsp; Git · Android Studio · VS Code · Visual Studio
-
----
-
 ## `[ projects ]`
 
 ### 💙 Flutter
-> Personal projects in progress — currently cleaning up professional work for public release. Watch this space.
+
+| Project | Description | Stack |
+|---|---|---|
+| [**ReadWise**](https://github.com/RogueStar03/readwise) | News reader with free/premium tiers — RevenueCat SDK integration: entitlements, dynamic paywalls, restore purchases, real-time subscription state via Cubit | `Flutter` `Dart` `Cubit` `RevenueCat` |
+| [**FlutterLearning**](https://github.com/RogueStar03/FlutterLearning) | Learning repo — 9 mini apps covering Flutter fundamentals: BMI calculator, weather app (REST API), Firebase chat, todo list, quiz app and more | `Flutter` `Dart` `Firebase` `REST APIs` |
+
+> More projects in progress — dedicated apps coming soon.
+
+---
+
+### 🌐 Shortlisted — *live product*
+
+> Resume keyword analyzer and job application tracker. Paste your resume and a job description — get a match score, keyword gaps, and filler word detection in under a second.
+
+**[shortlisted-beta.vercel.app](https://shortlisted-beta.vercel.app)** &nbsp;·&nbsp; [GitHub](https://github.com/RogueStar03/shortlisted)
+
+| | |
+|---|---|
+| **Stack** | Next.js 16 · Supabase · Tailwind CSS · Razorpay |
+| **Auth** | Google OAuth via Supabase |
+| **Analysis engine** | Pure TypeScript, TF-IDF, runs fully client-side |
+| **Status** | ✅ Live — payments in progress |
+
+---
 
 ### 🎮 Side projects & past work
 
 | Project | Description | Stack |
 |---|---|---|
 | [**ARNav**](https://github.com/RogueStar03/ARNav) | AR-based localized navigation — for distances Google Maps ignores | `Unity` `ShaderLab` `AR` |
-| [**CSE-ClubHouse**](https://github.com/RogueStar03/CSE-ClubHouse-Sem-5-SGP) | Software group project — Sem 5 | `C#` |
-| [**PokemonGameClone**](https://github.com/RogueStar03/PokemonGameClone-Sem3-SGP) | Turn-based game clone — Sem 3 SGP | `C#` `Unity` |
-| [**CubeDodge**](https://github.com/RogueStar03/CubeDodge) | First Unity 3D game — classic endless runner | `C#` `Unity` |
 | [**Top-Down-Shooter**](https://github.com/RogueStar03/Top-Down-Shooter) | 3D top-down shooter built in Unity | `C#` `Unity` |
+| [**CubeDodge**](https://github.com/RogueStar03/CubeDodge) | First Unity 3D game — classic endless runner | `C#` `Unity` |
+| [**PokemonGameClone**](https://github.com/RogueStar03/PokemonGameClone-Sem3-SGP) | Turn-based game clone — Sem 3 SGP | `C#` `Unity` |
+| [**CSE-ClubHouse**](https://github.com/RogueStar03/CSE-ClubHouse-Sem-5-SGP) | Software group project — Sem 5 | `C#` |
 | [**WorkoutLog**](https://github.com/RogueStar03/WorkoutLog-FSD-MiniProject) | Full-stack workout tracker web app | `JavaScript` |
+
+---
+
+## `[ secondary: other stacks ]`
+
+**Full Stack** &nbsp;·&nbsp; Next.js · Supabase · Tailwind CSS · Node.js · JavaScript · HTML · CSS
+
+**Game Dev** &nbsp;·&nbsp; Unity · C# · ShaderLab · AR/XR
+
+**Tools** &nbsp;·&nbsp; Git · Android Studio · VS Code · Visual Studio
 
 ---
 
@@ -65,7 +88,7 @@ Outside Flutter: Unity game dev and AR experiments when the mood strikes. 🎮
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogueStar03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=54C5F8&icon_color=54C5F8&text_color=8b949e&hide_rank=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogueStar03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=54C5F8&icon_color=54C5F8&text_color=8b949e)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogueStar03&layout=compact&hide_border=true&bg_color=0d1117&title_color=54C5F8&text_color=8b949e&langs_count=6)
 

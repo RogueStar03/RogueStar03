@@ -14,7 +14,7 @@
 
 ---
 
-Cross-platform mobile developer focused on **Flutter & Dart** — working with Cubit state management, REST API integration, file management, and SDK integrations day-to-day. Contributed to a production Flutter app professionally; more projects incoming.
+Cross-platform mobile developer focused on **Flutter & Dart** — working with Cubit state management, REST API integration, file management, and SDK integrations day-to-day. Contributing to a production Flutter app professionally; more projects incoming.
 
 Outside Flutter: full-stack web and Unity game dev & AR when the mood strikes.
 

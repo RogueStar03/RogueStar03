@@ -5,7 +5,7 @@
 # Abhishek Kayasth
 ### Software Developer · Gujarat, India
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=54C5F8&center=true&vCenter=true&width=600&lines=Flutter+Developer+%5B+primary+%5D;Cubit+%7C+REST+APIs+%7C+SDK+Integrations;Full+stack+on+the+side;Always+building.)
+`Flutter & Dart` &nbsp;·&nbsp; `Agentic AI & LLM Pipelines` &nbsp;·&nbsp; `Full-Stack Web`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kayasth-050250239/)
 [![Profile Views](https://komarev.com/ghpvc/?username=RogueStar03&style=flat-square&color=54C5F8&label=views)](https://github.com/RogueStar03)
@@ -14,39 +14,47 @@
 
 ---
 
-Cross-platform mobile developer focused on **Flutter & Dart** — working with Cubit state management, REST API integration, file management, and SDK integrations day-to-day. Contributing to a production Flutter app professionally; with some on weekend personal ones.
+Software developer working across **cross-platform mobile and agentic AI** — currently a Programmer Analyst at Argusoft, shipping production features on Medplat, a large-scale community healthcare platform.
 
-Outside Flutter: full-stack web and Unity game dev & AR when the mood strikes.
+Outside work: building Flutter apps, LLM automation pipelines, and full-stack web products — and occasionally making things shoot each other in Unity.
 
 ---
 
-## `[ primary: flutter ]`
+## `[ stack ]`
 
-| | |
-|---|---|
-| **Framework** | Flutter · Dart |
-| **State Management** | Cubit / BLoC |
-| **Data & Networking** | REST APIs · JSON serialization · async flows |
-| **Integrations** | Third-party SDKs · platform channels |
-| **Storage** | File management · local I/O · path handling |
-| **Target** | Android · iOS · cross-platform |
+**Mobile** &nbsp;·&nbsp; Flutter · Dart · Cubit / BLoC · RevenueCat · REST APIs · SDK integrations · offline-first
+
+**AI & Agentic** &nbsp;·&nbsp; Python · Ollama · LLM pipelines · prompt engineering · context & memory design · agentic workflows
+
+**Web & Full Stack** &nbsp;·&nbsp; Next.js · TypeScript · Supabase · Tailwind CSS · Node.js · Spring Boot
+
+**Tools** &nbsp;·&nbsp; Git · Android Studio · VS Code · Claude Code · Vercel
 
 ---
 
 ## `[ projects ]`
 
-### 💙 Flutter
+### 💙 Mobile — Flutter
 
 | Project | Description | Stack |
 |---|---|---|
-| [**ReadWise**](https://github.com/RogueStar03/readwise) | News reader with free/premium tiers — RevenueCat SDK integration: entitlements, dynamic paywalls, restore purchases, real-time subscription state via Cubit | `Flutter` `Dart` `Cubit` `RevenueCat` |
-| [**FlutterLearning**](https://github.com/RogueStar03/FlutterLearning) | Learning repo — 9 mini apps covering Flutter fundamentals: BMI calculator, weather app (REST API), Firebase chat, todo list, quiz app and more | `Flutter` `Dart` `Firebase` `REST APIs` |
+| [**ReadWise**](https://github.com/RogueStar03/readwise) | News reader with free/premium tiers — RevenueCat SDK: entitlements, dynamic paywalls, restore purchases, real-time subscription state via Cubit | `Flutter` `Dart` `Cubit` `RevenueCat` |
+| [**FlutterLearning**](https://github.com/RogueStar03/FlutterLearning) | Learning repo — 9 mini apps: BMI calculator, weather app (REST API), Firebase chat, todo list, quiz app and more | `Flutter` `Dart` `Firebase` `REST APIs` |
 
-> More projects in progress — dedicated apps coming soon.
+> More Flutter projects in progress.
 
 ---
 
-### 🌐 Shortlisted — *live product*
+### 🤖 AI & Agentic
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Job Application Automation**](https://github.com/RogueStar03/job-automation) | End-to-end LLM pipeline for resume–JD semantic matching and personalised application email generation. Semantic matching outperforms keyword approaches; 80% reduction in manual effort. Runs locally for privacy. | `Python` `Ollama` `LLMs` |
+| **Agentic AI with Persistent Memory** *(coming soon)* | Stateful agentic system with persistent memory via Obsidian, checkpoint-based recovery for interrupted workflows, and long-running task continuity across sessions | `Python` `Claude Code` `Obsidian` |
+
+---
+
+### 🌐 Web — *live product*
 
 > Resume keyword analyzer and job application tracker. Paste your resume and a job description — get a match score, keyword gaps, and filler word detection in under a second.
 
@@ -54,9 +62,9 @@ Outside Flutter: full-stack web and Unity game dev & AR when the mood strikes.
 
 | | |
 |---|---|
-| **Stack** | Next.js 16 · Supabase · Tailwind CSS · Razorpay |
+| **Stack** | Next.js 16 · TypeScript · Supabase · Tailwind CSS · Razorpay |
 | **Auth** | Google OAuth via Supabase |
-| **Analysis engine** | Pure TypeScript, TF-IDF, runs fully client-side |
+| **Analysis engine** | TF-IDF · stemming · stopword filtering — fully client-side |
 | **Status** | ✅ Live — payments in progress |
 
 ---
@@ -66,21 +74,10 @@ Outside Flutter: full-stack web and Unity game dev & AR when the mood strikes.
 | Project | Description | Stack |
 |---|---|---|
 | [**ARNav**](https://github.com/RogueStar03/ARNav) | AR-based localized navigation — for distances Google Maps ignores | `Unity` `ShaderLab` `AR` |
-| [**Top-Down-Shooter**](https://github.com/RogueStar03/Top-Down-Shooter) | 3D top-down shooter built in Unity | `C#` `Unity` |
+| [**Top-Down-Shooter**](https://github.com/RogueStar03/Top-Down-Shooter) | 3D top-down shooter | `C#` `Unity` |
 | [**CubeDodge**](https://github.com/RogueStar03/CubeDodge) | First Unity 3D game — classic endless runner | `C#` `Unity` |
 | [**PokemonGameClone**](https://github.com/RogueStar03/PokemonGameClone-Sem3-SGP) | Turn-based game clone — Sem 3 SGP | `C#` `Unity` |
-| [**CSE-ClubHouse**](https://github.com/RogueStar03/CSE-ClubHouse-Sem-5-SGP) | Software group project — Sem 5 | `C#` |
-| [**WorkoutLog**](https://github.com/RogueStar03/WorkoutLog-FSD-MiniProject) | Full-stack workout tracker web app | `JavaScript` |
-
----
-
-## `[ secondary: other stacks ]`
-
-**Full Stack** &nbsp;·&nbsp; Next.js · Supabase · Tailwind CSS · Node.js · JavaScript · HTML · CSS
-
-**Game Dev** &nbsp;·&nbsp; Unity · C# · ShaderLab · AR/XR
-
-**Tools** &nbsp;·&nbsp; Git · Android Studio · VS Code · Visual Studio
+| [**WorkoutLog**](https://github.com/RogueStar03/WorkoutLog-FSD-MiniProject) | Full-stack workout tracker | `JavaScript` |
 
 ---
 
@@ -105,7 +102,7 @@ Outside Flutter: full-stack web and Unity game dev & AR when the mood strikes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kayasth-050250239/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RogueStar03)
 
-*Open to Flutter roles, collabs, and interesting problems.*
+*Open to full-stack, mobile, and AI engineering roles — or just interesting problems.*
 
 </div>
 

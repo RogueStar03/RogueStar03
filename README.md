@@ -85,10 +85,6 @@ Outside work: building Flutter apps, LLM automation pipelines, and full-stack we
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogueStar03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=54C5F8&icon_color=54C5F8&text_color=8b949e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogueStar03&layout=compact&hide_border=true&bg_color=0d1117&title_color=54C5F8&text_color=8b949e&langs_count=6)
-
 ![Streak](https://streak-stats.demolab.com?user=RogueStar03&theme=dark&hide_border=true&background=0d1117&ring=54C5F8&fire=54C5F8&currStreakLabel=54C5F8)
 
 </div>

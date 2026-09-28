@@ -15,9 +15,10 @@
 
 ---
 
-Software developer working across **cross-platform mobile and agentic AI** — currently a Programmer Analyst at Argusoft, shipping production features on Medplat, a large-scale community healthcare platform.
-
-Outside work: building Flutter apps, LLM automation pipelines, and full-stack web products — and occasionally making things shoot each other in Unity.
+Software developer working across **cross-platform mobile and agentic AI**
+### Building now: Sutra
+A desktop app for the whole job search: find roles, score your fit, tailor your résumé, track everything. Your history stays on your computer.
+**[sutra-saas.web.app](https://sutra-saas.web.app/)** · [Releases](https://github.com/RogueStar03/sutra-releases/releases)
 
 ---
 
@@ -66,7 +67,7 @@ Outside work: building Flutter apps, LLM automation pipelines, and full-stack we
 | **Stack**           | Next.js 16 · TypeScript · Supabase · Tailwind CSS · Razorpay |
 | **Auth**            | Google OAuth via Supabase                                    |
 | **Analysis engine** | TF-IDF · stemming · stopword filtering — fully client-side   |
-| **Status**          | ✅ Live — payments in progress                               |
+| **Status**          | ✅ Live                               |
 
 ---
 
